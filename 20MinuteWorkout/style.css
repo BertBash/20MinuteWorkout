@@ -1,0 +1,38 @@
+img{
+    height: 150px;
+}
+
+.description{
+    font-size:20px;
+    font-weight: bold;
+}
+
+.equipment li{
+    list-style:square;
+}
+
+.time{
+    color: gray;
+}
+
+a{
+    color: seagreen;
+}
+
+#workout-time{
+    color: gray;
+}
+
+body{
+    font-family: Helvetica;
+    background-color: black;
+    color: gainsboro;
+}
+
+h1{
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+}
